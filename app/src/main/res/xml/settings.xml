@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="browsing_category"
+        android:title="General">
+        <CheckBoxPreference
+            android:key="exit_val"
+            android:defaultValue="true"
+            android:title="Show Exit Prompt"
+            android:summary="Show Exit Confirmation Dialog While Quitting" />
+        <CheckBoxPreference
+            android:key="showbox"
+            android:defaultValue="false"
+            android:title="Hide Edit Box Always"
+            android:summary="Hide Textbox at startup only" />
+        <CheckBoxPreference
+            android:key="longid"
+            android:defaultValue="false"
+            android:title="Make QR of long Url"
+            android:summary="Generate QR Code or long url instead short url"/>
+        <ListPreference
+            android:key="PREF_LIST"
+            android:title="Shorten Api"
+            android:summary="Change url shortening method"
+            android:entries="@array/listentries"
+            android:entryValues="@array/listvalues" />
+        <CheckBoxPreference
+            android:key="show_ads"
+            android:defaultValue="true"
+            android:title="Enable Interstitial Ads"
+            android:summary="Please Support Me"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="oth"
+        android:title="Other">
+        <Preference
+            android:key="email"
+            android:title="Send Me Email"/>
+        <Preference
+            android:key="chn"
+            android:title="Help &#38; Support"/>
+        <Preference
+            android:key="open"
+            android:title="Open Source"/>
+        <Preference
+            android:key="ver"
+            android:title="Version"
+            android:summary=" 1.0"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

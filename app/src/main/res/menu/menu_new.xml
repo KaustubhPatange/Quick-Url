@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kpstv.quickurl.Activity2">
+
+    <item
+        android:id="@+id/Share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/openvia"
+        android:orderInCategory="100"
+        android:title="Open With.."
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/webinfo"
+        android:orderInCategory="100"
+        android:title="Web Info"
+        app:showAsAction="never" />
+</menu>

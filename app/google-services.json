@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684008493264",
+    "firebase_url": "https://quickurl-3bf1a.firebaseio.com",
+    "project_id": "quickurl-3bf1a",
+    "storage_bucket": "quickurl-3bf1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684008493264:android:74224ca712109477",
+        "android_client_info": {
+          "package_name": "com.kpstv.quickurl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684008493264-nvcqj74bgqigapg241env3fmljvp3s0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kpstv.quickurl",
+            "certificate_hash": "9ffbf4f7ea7e67d57efafad2bac41413771c6901"
+          }
+        },
+        {
+          "client_id": "684008493264-jrj7tvspfeoktn1pgk85als4e02vvdmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFP_T9B9fR8aZU6XB2SGwvJxH0QKGK8Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684008493264-jrj7tvspfeoktn1pgk85als4e02vvdmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quick Url</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_2">" "</string>
+    <string name="externalstorage">DCIM/</string>
+    <string name="InterstitialAds_ADBMOD">ca-app-pub-1763645001743174~6222098042</string>
+    <string name="interstitial_full_screen">ca-app-pub-1763645001743174/9175564444</string>
+    <string name="Changelog">
+        <b>version 1.0 (date)</b>\n
+           - Public Commit on Github\n
+           - Initial Release</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome!</string>
+    <string name="slide_1_desc">Quickly go through this Guide for how to use this App!</string>
+
+    <string name="slide_2_title">Quick Shorten</string>
+    <string name="slide_2_desc">Quickly Shorten your Url into the most trusted google shortening url!</string>
+
+    <string name="slide_3_title">Generate QR</string>
+    <string name="slide_3_desc">Quickly generate QR of url, long press -> QR Code!</string>
+
+    <string name="slide_4_title">Open Source</string>
+    <string name="slide_4_desc">Best Part is the App is Open source i.e you are publicly allowed to perform changes to the app under GNU Licence!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
